@@ -1,0 +1,31 @@
+.Navbar {
+  display: grid;
+  background: linear-gradient(#eeecf1, #f394d3);
+  align-items: center;
+  height: 60px;
+  font-size: 25px;
+  font-style: bold;
+}
+
+.Nav {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  align-items: center;
+  justify-items: center;
+  font-size: 25px;
+}
+
+@media (max-width: 700px) {
+  .Navbar {
+    display: grid;
+    grid-template-areas: "logo nav";
+  }
+
+  .Nav {
+    grid-area: nav;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    align-items: center;
+    justify-items: center;
+  }
+}

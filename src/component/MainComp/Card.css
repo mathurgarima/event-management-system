@@ -1,0 +1,22 @@
+.btn {
+  background-color: rgb(91, 89, 250);
+  border: none;
+  text-emphasis-color: white;
+  margin-left: 50px;
+  padding: 10px 20px 10px 20px;
+}
+
+.root {
+  width: 1200;
+}
+
+.root {
+  width: 1200px;
+  height: 570;
+}
+
+.cards {
+  display: flex;
+
+  justify-content: space-between;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathurgarima/event-management-system.git/static/css/main.6c099a78.chunk.css",
+    "main.js": "/mathurgarima/event-management-system.git/static/js/main.d9027268.chunk.js",
+    "main.js.map": "/mathurgarima/event-management-system.git/static/js/main.d9027268.chunk.js.map",
+    "runtime-main.js": "/mathurgarima/event-management-system.git/static/js/runtime-main.75a2b29f.js",
+    "runtime-main.js.map": "/mathurgarima/event-management-system.git/static/js/runtime-main.75a2b29f.js.map",
+    "static/js/2.0adbb146.chunk.js": "/mathurgarima/event-management-system.git/static/js/2.0adbb146.chunk.js",
+    "static/js/2.0adbb146.chunk.js.map": "/mathurgarima/event-management-system.git/static/js/2.0adbb146.chunk.js.map",
+    "static/js/3.c8925bde.chunk.js": "/mathurgarima/event-management-system.git/static/js/3.c8925bde.chunk.js",
+    "static/js/3.c8925bde.chunk.js.map": "/mathurgarima/event-management-system.git/static/js/3.c8925bde.chunk.js.map",
+    "index.html": "/mathurgarima/event-management-system.git/index.html",
+    "static/css/main.6c099a78.chunk.css.map": "/mathurgarima/event-management-system.git/static/css/main.6c099a78.chunk.css.map",
+    "static/js/2.0adbb146.chunk.js.LICENSE.txt": "/mathurgarima/event-management-system.git/static/js/2.0adbb146.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a2b29f.js",
+    "static/js/2.0adbb146.chunk.js",
+    "static/css/main.6c099a78.chunk.css",
+    "static/js/main.d9027268.chunk.js"
+  ]
+}

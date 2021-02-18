@@ -1,0 +1,27 @@
+label,
+span {
+  font-weight: 800;
+  font-size: large;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.form-control {
+  border-color: #167bff;
+  box-sizing: inherit;
+  box-shadow: none;
+}
+
+label {
+  font-weight: 400;
+}
+
+.forgot-password,
+.forgot-password a {
+  font-size: 20px;
+  padding-top: 10px;
+  color: #d42f2f;
+}
+
+.forgot-password a {
+  color: #021022;
+}
